@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.0.31912.275
+VisualStudioVersion = 17.2.32616.157
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpotiSync", "SpotiSync\SpotiSync.csproj", "{3AF8D160-7346-4F63-9E6A-61601C3E76D5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpotiSync", "SpotiSync\SpotiSync.csproj", "{AE8A8251-E4C4-49C4-9567-C9173F51481B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{3AF8D160-7346-4F63-9E6A-61601C3E76D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3AF8D160-7346-4F63-9E6A-61601C3E76D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3AF8D160-7346-4F63-9E6A-61601C3E76D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3AF8D160-7346-4F63-9E6A-61601C3E76D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE8A8251-E4C4-49C4-9567-C9173F51481B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE8A8251-E4C4-49C4-9567-C9173F51481B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE8A8251-E4C4-49C4-9567-C9173F51481B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE8A8251-E4C4-49C4-9567-C9173F51481B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {F7EF4263-2A02-4BA4-95A4-19CC922F043F}
+		SolutionGuid = {D9E81FD1-8FB4-4158-BFC1-00BD8B5E268C}
 	EndGlobalSection
 EndGlobal

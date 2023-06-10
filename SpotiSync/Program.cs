@@ -1,18 +1,13 @@
-using System.Runtime.InteropServices;
+using SpotiSync.Services;
 
 namespace SpotiSync
 {
     static class Program
     {
         [STAThread]
-        static void Main()
+        public static void Main()
         {
-            AllocConsole();
-            
+            new SpotifyConnector().Connect();
         }
-
-        [DllImport("kernel32.dll", SetLastError = true)]
-        [return: MarshalAs(UnmanagedType.Bool)]
-        static extern bool AllocConsole();
     }
 }
